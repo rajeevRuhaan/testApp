@@ -39,3 +39,4 @@ npm install ejs --save
 ```shell
 npm start
 ```
+[![CI](https://github.com/Dariwka/testApp/actions/workflows/main.yml/badge.svg)](https://github.com/Dariwka/testApp/actions/workflows/main.yml)
